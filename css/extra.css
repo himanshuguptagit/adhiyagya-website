@@ -1,0 +1,49 @@
+/* Welcome Area css
+============================================================================================ */
+.welcome_area {
+  padding-top: 150px; }
+
+.welcome_inner .welcome_img {
+  background: #eeeeee;
+  margin-left: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px; }
+  .welcome_inner .welcome_img img {
+    margin-top: -30px; }
+
+.welcome_text h4 {
+  color: #222222;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  margin-bottom: 18px; }
+
+.welcome_text p {
+  max-width: 495px;
+  line-height: 24px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 40px; }
+
+.wel_item {
+  border: 1px solid #eeeeee;
+  padding: 30px 25px; }
+  .wel_item i {
+    font-size: 24px;
+    color: #81C00E; }
+  .wel_item h4 {
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #222222;
+    margin-bottom: 5px;
+    margin-top: 10px; }
+  .wel_item p {
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    color: #777777;
+    margin-bottom: 0px; }
+
+/* End Welcome Area css
+============================================================================================ */
