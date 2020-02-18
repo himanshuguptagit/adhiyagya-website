@@ -1,11 +1,12 @@
- AOS.init({
- 	duration: 800,
- 	easing: 'slide'
- });
+
 
 (function($) {
 
 	"use strict";
+	AOS.init({
+		duration: 800,
+		easing: 'slide'
+	});
 
 	$(window).stellar({
     responsive: false,
