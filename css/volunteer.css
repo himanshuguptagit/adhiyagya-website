@@ -59,7 +59,8 @@
 .gridder-show {
   padding: 20px;
   background: #EEE;
-  margin-bottom: 1%; }
+  margin-bottom: 1%;
+  margin-top: 50px; }
 
 .gridder-navigation {
   display: flex; }
